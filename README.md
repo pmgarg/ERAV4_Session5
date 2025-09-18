@@ -46,7 +46,7 @@
 <td>
 
 #### 🔬 Experiment 1: Baseline SGD
-📓 **Notebook:** [`experiment_1_sgd_scheduler.ipynb`](./notebooks/experiment_1_sgd_scheduler.ipynb)
+📓 **Notebook:** [`Session5_model_training_SGD.ipynb`](./Session5_model_training_SGD.ipynb)
 
 **Configuration:**
 - Optimizer: `SGD`
@@ -84,7 +84,7 @@
 <td>
 
 #### 🔬 Experiment 2: SGD Without Scheduler
-📓 **Notebook:** [`experiment_2_sgd_fixed_lr.ipynb`](./notebooks/experiment_2_sgd_fixed_lr.ipynb)
+📓 **Notebook:** [`Session5_model_training_SGD_no_scheduler.ipynb`](./Session5_model_training_SGD_no_scheduler.ipynb)
 
 **Configuration:**
 - Optimizer: `SGD`
@@ -121,7 +121,7 @@
 <td>
 
 #### 🔬 Experiment 3: Adam with Scheduler
-📓 **Notebook:** [`experiment_3_adam_scheduler.ipynb`](./notebooks/experiment_3_adam_scheduler.ipynb)
+📓 **Notebook:** [`Session5_model_training_adam.ipynb`](./Session5_model_training_adam.ipynb)
 
 **Configuration:**
 - Optimizer: `Adam`
@@ -158,7 +158,7 @@
 <td>
 
 #### 🔬 Experiment 4: AdamW with Scheduler
-📓 **Notebook:** [`experiment_4_adamw_scheduler.ipynb`](./notebooks/experiment_4_adamw_scheduler.ipynb)
+📓 **Notebook:** [`Session5_model_training_adamw.ipynb`](./Session5_model_training_adamw.ipynb)
 
 **Configuration:**
 - Optimizer: `AdamW`
